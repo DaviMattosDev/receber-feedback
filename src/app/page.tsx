@@ -154,7 +154,7 @@ export default function Opiniao() {
                   />
                 </svg>
                 <div>
-                  <h2 className="text-lg font-semibold">{opiniao.nome}</h2>
+                  <h2 className="text-lg font-semibold text-black">{opiniao.nome}</h2>
                   <p className="text-gray-500">{opiniao.email}</p>
                 </div>
               </div>
